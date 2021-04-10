@@ -12,9 +12,9 @@
     <artifactId>VierGewinnt</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>VierGewinnt</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Vier Gewinnt Implementierung von Joachim Korittky</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -56,6 +56,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
     </dependencies>
 
     <build>
